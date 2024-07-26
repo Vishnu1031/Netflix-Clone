@@ -2,6 +2,18 @@
 # Todo
  - create-react-app
  - configure tailwind
+ - Header
+ - Login form
+ - sign up form
+ - form validation
+ - useRef
+ - routing
+ - Firebase setup
+ - deployment
+ - implemented sign in/ sign
+ - created the store
+ - sign out feature
+ - firebase API profile update call
 
 # Feature
  - login/signUp page
