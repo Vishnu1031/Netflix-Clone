@@ -26,6 +26,10 @@
  - custom hook tarilor API
  - embeded the youtube video
  - make it autoplay and mute
+ - build secondary component
+ - build the movie list and card
+ - find the image cdn TMDB
+ - custom hook for popular movie got from TMDB
 
 # Feature
  - login/signUp page

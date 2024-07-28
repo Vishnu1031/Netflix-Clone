@@ -10,5 +10,10 @@ export const API_OPTIONS = {
   },
 };
 
-export const fetchMovieUrl =
+export const fetchNowPlayingMovieUrl =
   "https://api.themoviedb.org/3/movie/now_playing?page=1";
+
+export const fetchPopularMoviesUrl =
+  "https://api.themoviedb.org/3/movie/popular?page=1";
+
+export const IMG_CDNURL = "https://image.tmdb.org/t/p/w500";
