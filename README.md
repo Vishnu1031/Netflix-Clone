@@ -30,6 +30,9 @@
  - build the movie list and card
  - find the image cdn TMDB
  - custom hook for popular movie got from TMDB
+ - GPT search feature
+ - multi language page feature
+ - intergrate gpt APIs
 
 # Feature
  - login/signUp page
